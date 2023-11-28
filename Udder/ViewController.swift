@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         // this is a dummy comment for testing git commit
+        print("Successfully set up git versioning control!")
     }
 
 
